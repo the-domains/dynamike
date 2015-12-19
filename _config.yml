@@ -1,0 +1,28 @@
+name: Dynamike
+favicon: null
+layout_spectrum: 0.18583436706103384
+typography_spectrum: 0.589300953084603
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2290023711975664
+  lightness: 0.4738634550012648
+  saturation: 0.9385871579870582
+  rhythmicContrast: 0.8661171509884298
+purpose: []
